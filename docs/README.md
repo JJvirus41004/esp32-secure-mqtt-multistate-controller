@@ -14,7 +14,7 @@ observations, and iterative development steps**, rather than end-user usage.
 **Design Notes & Experimental Observations**
 
 File:
-`ESP32_3_State_Smart_Switch_MQTT_Project.pdf`
+- [ESP32 3-State Smart Switch MQTT Project (PDF)](ESP32_3_State_Smart_Switch_MQTT_Project.pdf)
 
 This document covers:
 - Incremental development stages of the system
