@@ -27,8 +27,8 @@ int lastState = -1;
 bool promptPrinted = false;
 int currentAngle = 90; // Start servo at a known middle position
 
-const char* ssid = "Airtel_OTPL_WiFi4g";
-const char* password = "Technology5g";
+const char* ssid = "YOUR_WIFI_SSID";
+const char* password = "YOUR_WIFI_PASSWORD";
 
 // Secure MQTT Broker Info (no certificates used)
 /*const char* mqtt_server = "otplai.com"; // e.g. broker.emqx.io
@@ -36,7 +36,7 @@ const int mqtt_port = 8883; // secure MQTT port
 const char* mqtt_topic = "Tutorial_MQTT/sensors/data";*/
 
 // Secure MQTT Broker Info (no certificates used)
-const char* mqtt_server = "otplai.com"; // e.g. broker.emqx.io
+const char* mqtt_server = "your-broker-domain.com"; // e.g. broker.emqx.io
 const int mqtt_port = 8883; // secure MQTT port
 const char* mqtt_topic = "Tutorial_MQTT/sensors/data(json)";
 const char* mqtt_topic1 = "Tutorial_MQTT/sensors/data";
