@@ -48,7 +48,7 @@ The system supports control from:
 ## Documentation
 -Detailed design notes, MQTT topic mapping, state transition logic, and
 experimental observations for this project are available in the `/docs` directory.
--Files: - [ESP32 3-State Smart Switch MQTT Project (PDF)](ESP32_3_State_Smart_Switch_MQTT_Project.pdf)
+-Files: [ESP32 3-State Smart Switch MQTT Project (PDF)](ESP32_3_State_Smart_Switch_MQTT_Project.pdf)
 
 ## Status
 ✔ Functional implementation  
