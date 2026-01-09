@@ -49,6 +49,9 @@ The system supports control from:
 - Detailed design notes, MQTT topic mapping, state transition logic, and experimental observations for this project are available in the `docs/` directory.
 - Files: [ESP32 3-State Smart Switch MQTT Project (PDF)](docs/ESP32_3_State_Smart_Switch_MQTT_Project.pdf)
 
+## Source Code
+- Main firmware: [esp32-secure-mqtt-multistate-controller.ino](esp32-secure-mqtt-multistate-controller.ino)
+
 ## Status
 ✔ Functional implementation  
 🛠 Ongoing cleanup, optimization, and documentation
