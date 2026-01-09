@@ -46,12 +46,9 @@ The system supports control from:
 - Signal booster / driver for servo control signal (3.3V GPIO → servo-compatible control)
 
 ## Documentation
-Detailed design notes, experimental observations, MQTT topic mapping,
-and debugging insights are available in the `/docs` directory:
-
-## Documentation
 Detailed design notes, MQTT topic mapping, state transition logic, and
 experimental observations for this project are available in the `/docs` directory.
+Files: - [ESP32 3-State Smart Switch MQTT Project (PDF)](ESP32_3_State_Smart_Switch_MQTT_Project.pdf)
 
 ## Status
 ✔ Functional implementation  
